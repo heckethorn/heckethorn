@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heckethorn
 - 👀 I’m interested in learning to code with Odin Project.
-- 🌱 I’m currently learning the very basics!
+- 🌱 I’m currently learning the basics!
 - 💞️ I’m looking to collaborate on future projects and assistance with Odin assignments.
 - 📫 How to reach me...
 
